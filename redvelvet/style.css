@@ -1,0 +1,68 @@
+img {
+  vertical-align:
+}
+
+img.image-responsive-full {
+  width: 100%;
+  height: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    margin: 0px;
+    font-weight: normal;
+}
+
+h1.hd-logo{
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px
+}
+
+#hd-in{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  position: relative;
+}
+
+#nav {
+  float: right;
+  margin-right: 100px;
+  list-style: none;
+  overflow: hidden;
+}
+
+#nav li {
+  width: 140px;
+  text-align: center;
+  background-color: #fff;
+  float: left;
+  height: 50px;
+  line-height: 50px;
+  margin-right: 10px;
+}
+
+#nav li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.footer{
+  background-color: #373632;
+  height: 200px;
+  min-height: 300px;
+  padding: 1rem 0 3rem 0;
+  margin: 7rem 0 0 0;
+}
+
+h1.footer-name{
+  font-size: 30px;
+  color: #fff;
+  margin: 150px auto;
+  width:150px;
+}
