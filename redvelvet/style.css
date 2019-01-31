@@ -66,3 +66,19 @@ h1.footer-name{
   margin: 150px auto;
   width:150px;
 }
+
+img.icon-insta{
+
+}
+
+img.icon-twi{
+  margin-left: 10px;
+}
+
+img.icon-face{
+  margin-left: 10px;
+}
+
+div.icon{
+  text-align: center;
+}
